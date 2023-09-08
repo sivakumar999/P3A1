@@ -1,0 +1,12 @@
+M:\Simplilearn\mphasis\Phase-3\Day-1\Assign1\Login\Login\bin\Debug\net6.0\Login.deps.json
+M:\Simplilearn\mphasis\Phase-3\Day-1\Assign1\Login\Login\bin\Debug\net6.0\Login.dll
+M:\Simplilearn\mphasis\Phase-3\Day-1\Assign1\Login\Login\bin\Debug\net6.0\Login.pdb
+M:\Simplilearn\mphasis\Phase-3\Day-1\Assign1\Login\Login\obj\Debug\net6.0\Login.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\Phase-3\Day-1\Assign1\Login\Login\obj\Debug\net6.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+M:\Simplilearn\mphasis\Phase-3\Day-1\Assign1\Login\Login\obj\Debug\net6.0\Login.AssemblyInfoInputs.cache
+M:\Simplilearn\mphasis\Phase-3\Day-1\Assign1\Login\Login\obj\Debug\net6.0\Login.AssemblyInfo.cs
+M:\Simplilearn\mphasis\Phase-3\Day-1\Assign1\Login\Login\obj\Debug\net6.0\Login.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\Phase-3\Day-1\Assign1\Login\Login\obj\Debug\net6.0\Login.dll
+M:\Simplilearn\mphasis\Phase-3\Day-1\Assign1\Login\Login\obj\Debug\net6.0\refint\Login.dll
+M:\Simplilearn\mphasis\Phase-3\Day-1\Assign1\Login\Login\obj\Debug\net6.0\Login.pdb
+M:\Simplilearn\mphasis\Phase-3\Day-1\Assign1\Login\Login\obj\Debug\net6.0\ref\Login.dll
